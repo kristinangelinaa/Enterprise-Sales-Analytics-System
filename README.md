@@ -108,24 +108,6 @@ Discovered products frequently bought together:
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/kristinangelinaa/Enterprise-Sales-Analytics-System.git
-cd Enterprise-Sales-Analytics-System
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the dashboard
-streamlit run streamlit_dashboard.py
-```
-
-Dashboard opens at `http://localhost:8501`
-
----
-
 ## 📂 Project Files
 
 ```
@@ -135,19 +117,6 @@ Dashboard opens at `http://localhost:8501`
 ├── superstore sales dataset.csv # Raw sales data
 └── README.md                    # This file
 ```
-
----
-
-## 🛠️ Technologies Used
-
-| Tool | Purpose |
-|------|---------|
-| **Python** | Core programming language |
-| **Streamlit** | Interactive web dashboard framework |
-| **Plotly** | 3D visualizations and interactive charts |
-| **Pandas** | Data manipulation and analysis |
-| **Scikit-learn** | Machine learning (forecasting, clustering) |
-| **NumPy** | Numerical computations |
 
 ---
 
@@ -169,38 +138,11 @@ Dashboard opens at `http://localhost:8501`
 
 ---
 
-## 🎯 Business Impact
-
-This dashboard provides actionable insights for:
-
-**Marketing Teams**
-- Target high-value customer segments
-- Identify at-risk customers before they churn
-- Optimize discount strategies
-- Plan seasonal campaigns
-
-**Sales Teams**
-- Focus efforts on top 20 revenue-generating customers
-- Cross-sell using product affinity data
-- Prioritize high-potential geographic regions
-
-**Executives**
-- Monitor KPIs in real-time
-- Track growth trends (MoM, QoQ, YoY)
-- Make data-driven strategic decisions
-
----
-
-## 📝 License
-
-MIT License - Free to use for personal or commercial projects
-
----
-
 ## 👤 Author
 
 **Kristin Angelina**
 - GitHub: [@kristinangelinaa](https://github.com/kristinangelinaa)
+- Linkedin: [https://www.linkedin.com/in/kristineangelina/] 
 
 ---
 
